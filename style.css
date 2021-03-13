@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: chartreuse;
+}
+#p1{
+    font-family: fantasy;
+    font-size: 20px;
+}
+#p2{
+    font-family: fantasy;
+    font-size: 20px;
+}
+#p3{
+    font-family: fantasy;
+    font-size: 20px;
+}
+#p4{
+    font-family: fantasy;
+    font-size: 20px;
+}
+#p5{
+    font-family: fantasy;
+    font-size: 20px;
+}
+#image1{
+    width: 1000px;
+    height: 1000px;
+}
+#image2{
+    width: 1000px;
+    height: 1000px;
+}#image3{
+    width: 1000px;
+    height:1000px;
+}#image4{
+    width: 1000px;
+    height:1000px;
+}
